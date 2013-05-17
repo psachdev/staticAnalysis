@@ -1,0 +1,14 @@
+.gallery li
+{
+  display:inline-block;
+  width: 158px;
+  min-height: 170px;
+  vertical-align:top;
+  text-align:center;
+  padding:4px;
+  zoom:1;
+  *display: inline;
+  _height: 170px;
+  border:none;
+  overflow-y: auto;
+}
